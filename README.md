@@ -1,2 +1,5 @@
 # datafun-01-utils
-608 Mod 1
+Reusable utilities for my Python projects
+
+Test your Python Code with [Python Online](https://www.online-python.com)
+Links to an external site.

@@ -47,7 +47,7 @@ dog_types: list = ["Three-Legged", "Two-Legged", "One-Legged"]
 dog_weights_in_kg: list = [98.5, 101.5, 15.6, 150.0, 2.3]
 
 # Calculate basic statistics using built-in Python functions and the statistics module
-# TODO: Replace these variable names with the variable name of your own numeric list
+# TODO: Replace these variable names with the variable name of your own numeric list DID WITH STEP 7 BYLINE UPDATE
 min_weight: float = min(dog_weights_in_kg)  
 max_weight: float = max(dog_weights_in_kg)  
 mean_weight: float = statistics.mean(dog_weights_in_kg)  

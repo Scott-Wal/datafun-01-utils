@@ -6,6 +6,8 @@ Purpose: Reusable Module for My Analytics Projects
 Description: This module provides a byline for my analytics projects. 
 When we work hard to write useful code, we want it to be reusable.
 A good byline could be used in every Python analytics project we do.
+While the example here used fictional dogs, this template can be modified
+and used to complete many Analytics projects, so sayeth Professor Case!
 
 Author: Scott Wal
 
